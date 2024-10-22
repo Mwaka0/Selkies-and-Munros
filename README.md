@@ -1,6 +1,7 @@
 # Selmkies And Munros
 
 **The Game of ‘Selkies and Munros’**
+
 You are being asked to design, document, and implement a Scottish-themed version of the
 popular board game ‘Snakes and Ladders’. The new version of the game will be called ‘Selkies and
 Munros’. The remainder of this document will describe your project and the game that you are
@@ -16,6 +17,7 @@ from requirements gathering through design, coding, and testing.
 development of a larger, fully functional (and working!) application.
 
 **It’s Time to Play!**
+
 As mentioned above, you are being asked to design and implement a Scottish-themed version of
 the popular board game ‘Snakes and Ladders’ which will be called ‘Selkies and Munros’. In Scottish
 folklore, a Selkie is a mythical, seal-like creature that lives on both the land and the sea. A Munro
