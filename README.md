@@ -1,4 +1,4 @@
-# Selmkies And Munros
+# Selkies And Munros
 
 **The Game of ‘Selkies and Munros’**
 
